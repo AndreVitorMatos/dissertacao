@@ -23,29 +23,55 @@ O foco é identificar diferenças de desempenho, robustez e custo computacional 
 ## Estrutura do Repositório
 
 ├── N/
+
 │   ├── Dados/
+
 │   ├── Preprocessamento/
+
 │   ├── Treinamento/
+
 │   └── Teste/
+
 │
+
 ├── NE/
+
 │   ├── Dados/
+
 │   ├── Preprocessamento/
+
 │   ├── Treinamento/
+
 │   └── Teste/
+
 │
+
 ├── S/
+
 │   ├── Dados/
+
 │   ├── Preprocessamento/
+
 │   ├── Treinamento/
+
 │   └── Teste/
+
 │
+
 ├── SECO/
+
 │   ├── Dados/
+
 │   ├── Preprocessamento/
+
 │   ├── Treinamento/
+
 │   └── Teste/
+
+├── requirements.txt
+
 └── README.md
+
 
 ## Requisitos
 
